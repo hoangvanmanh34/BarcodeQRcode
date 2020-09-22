@@ -7,6 +7,12 @@ import INI_r_w
 from threading import Thread
 import tempfile
 
+#Hoang Van Manh
+#Danny TE-NPI
+#hoangvanmanhpc@gmail.com
+#https://www.youtube.com/c/StevenHCode
+#https://github.com/hoangvanmanh34
+
 ftemp = tempfile.TemporaryDirectory()
 ini_cfg_path = 'config.ini'
 
