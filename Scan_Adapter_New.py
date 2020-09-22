@@ -11,6 +11,12 @@ import serial.tools.list_ports
 from datetime import datetime
 import socket
 
+#Hoang Van Manh
+#Danny TE-NPI
+#hoangvanmanhpc@gmail.com
+#https://www.youtube.com/c/StevenHCode
+#https://github.com/hoangvanmanh34
+
 symlist = re.compile('[@_!#$%^&*()<>?/|}{~:]')
 #sn+test_time+machine+result+error_Code
 
